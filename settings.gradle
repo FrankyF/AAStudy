@@ -1,0 +1,4 @@
+include ':app:mylibrary'
+include ':app:astudylib'
+include ':app'
+rootProject.name = "A Study"
